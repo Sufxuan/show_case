@@ -1,0 +1,1 @@
+view sliders show
